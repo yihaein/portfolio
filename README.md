@@ -1,2 +1,4 @@
-# yihaein.github.io
-My Data Science Portfolio
+# Haein Lee
+
+## Social Media
+[LinkedIn](https://www.linkedin.com/in/yihaein/)
