@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/yihaein/) [GitHub](https://github.com/yihaein) [Medium](https://medium.com/@yihaein)
 
 ## Projects
-Soft, sugary, and more expensive candy brands are more popular: [Blog Post](https://medium.com/@yihaein/soft-sugary-and-more-expensive-candy-brands-are-more-popular-cd366b3feb2d) [Code](https://github.com/yihaein/candy)
+Coffee from major markets provide more marketing, sales, and profits: [Blog Post](https://medium.com/@yihaein/coffee-6667133ae82e) [Code](https://github.com/yihaein/coffee)
 
-<img src="https://user-images.githubusercontent.com/95606414/153780624-3a64a921-9039-4eab-bb46-42194ccea1ed.png?raw=true">
+<img src="https://user-images.githubusercontent.com/95606414/158326737-0f7b1ec0-7933-4b82-8ad2-cf857821dfbd.png?raw=true">
 
